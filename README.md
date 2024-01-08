@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I'm Will Dufault
+
+- 🎓 I'm a senior at Worcester Polytechnic Institute working towards a bachelor's in computer science with a minor in data science. I will have all of my degree requirements done by March 2024, but I will be officially graduating in May.
+- 🌱 I’m currently learning Angular through working on my capstone project, Python through personal projects, and OOP and DSA through my coursework.
+- 👯 I’m looking to collaborate on anything. If you have a fun project idea, please reach out!
+- 💬 Ask me about anything software development, cloud computing, or machine learning. Let's talk!
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/willdufault)
+  - [Email](mailto:wrdufault@wpi.edu)
 
 <!--
 **willdufault/willdufault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
