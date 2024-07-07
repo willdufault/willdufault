@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Will Dufault
 
-- 🎓 I'm a new graduate from Worcester Polytechnic Institute with a bachelor's in computer science and a minor in data science.
-- 🌱 I’m currently learning Python and AWS through my second internship at BJ's Wholesale Club as a Cloud Software Engineer Intern and DSA through my personal studies.
+- 🎓 I'm a new grad from WPI with a BS in CS minor in DS.
+- 🌱 I’m currently learning Python, Jenkins, and AWS through my second internship at BJ's Wholesale Club as a SWE Intern and DSA through my personal studies.
 - 👯 I’m open to collaborate on anything. If you have a fun project idea, please reach out!
 - 💬 Ask me about anything software development, cloud computing, or machine learning. Let's talk!
 - 📫 How to reach me:
