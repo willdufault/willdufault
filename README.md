@@ -157,4 +157,4 @@
 
 <!--< p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willdufault&show_icons=true&locale=en" alt="willdufault" /></p> -->
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willdufault&" alt="willdufault" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willdufault&theme=dark" alt="willdufault" /></p>
