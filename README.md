@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [minifi](https://github.com/willdufault/minifi)
 
-- 🌱 I’m currently learning **Python, TypeScript, MERN, AWS**
+- 🌱 I’m currently learning **Python, TypeScript, MERN, and AWS**
 
 - 👨‍💻 Check out my portfolio [https://willdufault.dev](https://willdufault.dev)
 
