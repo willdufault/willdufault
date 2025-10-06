@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Will Dufault</h1>
 <h3 align="center">Software Engineer | Cloud Engineer at BJ's Wholesale Club</h3>
 
-- 🔭 I’m currently working on [minifi](https://github.com/willdufault/minifi)
+- 🔭 I’m currently working on [AI chess](https://github.com/willdufault/ai-chess)
 
-- 🌱 I’m currently learning **Python, TypeScript, MERN, and AWS**
+- 🌱 I’m currently learning **Python, AI, bit manipulation, and AWS**
 
 - 👨‍💻 Check out my portfolio [https://willdufault.dev](https://willdufault.dev)
 
