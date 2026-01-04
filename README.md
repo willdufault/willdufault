@@ -1,5 +1,5 @@
 # Hi, I'm Will Dufault 👋
-Cloud Software Engineer at BJ's Wholesale Club
+Software Engineer | Cloud Software Engineer at BJ's Wholesale Club
 
 #### 💻 Top Skills
 - Python
