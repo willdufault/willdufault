@@ -1,3 +1,3 @@
 ### Will Dufault
-**Building:** clpy (private), <a href="https://github.com/willdufault/wsh">wsh</a>, softwaresume (private)  
+**Building:** <a href="https://github.com/willdufault/wsh">wsh</a>,clpy (private),  softwaresume (private)  
 **Learning:** Neovim, OpenCode, Claude Code, AI coding
